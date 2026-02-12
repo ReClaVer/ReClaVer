@@ -36,7 +36,7 @@
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
     <a href="https://dart.dev/" target="_blank"> <img src="https://img.icons8.com/color/2x/dart.png" alt="dart" width="48" height="48"/> </a>
     <a href="https://www.figma.com/" target="_blank"> <img src="https://img.icons8.com/fluency/2x/figma.png" alt="figma" width="48" height="48"/> </a>
-    <a href="https://www.adobe.com/sea/products/xd.html" target="_blank"> <img src="https://img.icons8.com/color/2x/adobe-xd.png" alt="xd" width="48" height="48"/> </a>
+    <a href="https://www.adobe.com/sea/products/xd.html" target="_blank"> <img src="https://img.icons8.com/fluency/2x/adobe-xd.png" alt="xd" width="48" height="48"/> </a>
     <a href="https://www.adobe.com/sea/products/photoshop.html" target="_blank"> <img src="https://img.icons8.com/color/2x/adobe-photoshop.png" alt="photoshop" width="48" height="48"/> </a>
     <a href="https://www.adobe.com/sea/products/illustrator.html" target="_blank"> <img src="https://img.icons8.com/color/2x/adobe-illustrator.png" alt="illustrator" width="48" height="48"/> </a>
     
@@ -84,4 +84,3 @@
     <img src="https://komarev.com/ghpvc/?username=ReClaVer">
 </a>
 <a href="https://github.com/ReClaVer?tab=followers"><img src="https://img.shields.io/github/followers/ReClaVer?label=Followers&style=social" alt="GitHub Badge"></a>
-
